@@ -1,1 +1,2 @@
 ENTRY A
+ENTRY B
